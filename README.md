@@ -16,8 +16,8 @@ _Be aware that this setup uses the plugin "PODS" for content._
 
 This repo automatically deploys to server, on push to master branch.
 
-npm run watch
-builds to dist on save. Used for development.
+> _npm run watch_
+> builds to dist on save. Used for development.
 
-npm run prod
-build, minify & bundle to dist. please use this command before deploy on push.
+> _npm run prod_
+> build, minify & bundle to dist. please use this command before deploy on push.
